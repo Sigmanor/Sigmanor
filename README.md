@@ -10,13 +10,21 @@
 
 ## 💖 Favorite Technologies & Tools
 
-<p>
-    <a href="https://nodejs.org/en" target="_blank"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-F7DF1E.svg?logo=nodedotjs&logoColor=black"></a>
-    <a href="https://www.python.org" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-    <a href="https://go.dev" target="_blank"><img alt="Go" src="https://img.shields.io/badge/Go-00ADD8.svg?logo=go&logoColor=white"></a>
-    <a href="https://vscodium.com" target="_blank"><img alt="VS Code" src="https://img.shields.io/badge/VS%20Codium-007ACC.svg?logo=vscodium&logoColor=white"></a>
-    <a href="https://wezterm.org/" target="_blank"><img alt="WezTerm" src="https://img.shields.io/badge/WezTerm-3B4252.svg?logo=wezterm&logoColor=white"></a>
-</p>
+<a href="https://nodejs.org/en" target="_blank">
+  <img src="https://img.shields.io/badge/Node.js-F7DF1E.svg?logo=nodedotjs&logoColor=black" alt="Node.js">
+</a>
+<a href="https://www.python.org" target="_blank">
+  <img src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white" alt="Python">
+</a>
+<a href="https://go.dev" target="_blank">
+  <img src="https://img.shields.io/badge/Go-00ADD8.svg?logo=go&logoColor=white" alt="Go">
+</a>
+<a href="https://vscodium.com" target="_blank">
+  <img src="https://img.shields.io/badge/VS%20Codium-007ACC.svg?logo=vscodium&logoColor=white" alt="VS Code">
+</a>
+<a href="https://wezterm.org/" target="_blank">
+  <img src="https://img.shields.io/badge/WezTerm-3B4252.svg?logo=wezterm&logoColor=white" alt="WezTerm">
+</a>
 
 ## 📊 GitHub Stats
 
