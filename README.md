@@ -4,10 +4,6 @@
 
 My name is **Oleksandr** I'm from Ukraine 🇺🇦 and developing cool things is both my primary profession and one of my passions.
 
-## 👀 Profile Views
-
-[![Oleksandr profile views](https://u8views.com/api/v1/github/profiles/7986067/views/day-week-month-total-count.svg)](https://u8views.com/github/Sigmanor)
-
 ## 💖 Favorite Technologies & Tools
 
 [![Node.js](https://img.shields.io/badge/Node.js-F7DF1E.svg?logo=nodedotjs&logoColor=black)](https://nodejs.org/en)
