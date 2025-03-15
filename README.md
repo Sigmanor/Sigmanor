@@ -1,8 +1,9 @@
 [![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-no-action.svg)](https://stand-with-ukraine.pp.ua/)
 
-# ✨ Sigmanor
-
+---
 My name is **Oleksandr** I'm from Ukraine 🇺🇦 and developing cool things is both my primary profession and one of my passions.
+---
+
 
 ## 💖 Favorite Technologies & Tools
 
