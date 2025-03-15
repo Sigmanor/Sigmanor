@@ -12,4 +12,4 @@
 
 ## 📊 GitHub Stats
 
-![Sigmanor GitHub stats](https://github-readme-stats.vercel.app/api?username=Sigmanor&show_icons=true&theme=radical) ![top languages](https://github-readme-stats.vercel.app/api/top-langs?username=Sigmanor&show_icons=true&locale=en&layout=compact&theme=radical&hide=html,css)
+![Sigmanor GitHub stats](https://github-readme-stats.vercel.app/api?username=Sigmanor&show_icons=true&theme=radical) ![top languages](https://github-readme-stats.vercel.app/api/top-langs?username=Sigmanor&show_icons=true&locale=en&layout=compact&theme=radical&hide=html,css,pascal)
